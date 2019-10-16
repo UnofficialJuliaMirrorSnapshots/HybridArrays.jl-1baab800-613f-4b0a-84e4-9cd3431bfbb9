@@ -1,0 +1,8 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+
+docs/build
+# temporarily checked in because HybridArrays depends on some unreleased changes to StaticArrays
+# Manifest.toml
